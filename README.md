@@ -1,5 +1,18 @@
 # VR_webRTC_Video_conferance-web-app/tree/main
+
+
 ![pic](pic.jpg)
+
+
+  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVehanRajintha%2FwebRTC_VideoConverence_webApp&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+
+![forks](https://img.shields.io/github/forks/VehanRajintha/webRTC_VideoConverence_webApp?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/VehanRajintha/webRTC_VideoConverence_webApp?style=social)
+
+![size](https://img.shields.io/github/repo-size/VehanRajintha/webRTC_VideoConverence_webApp?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/VehanRajintha/webRTC_VideoConverence_webApp?color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 # Getting Started with Create React App
 
