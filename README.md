@@ -1,4 +1,4 @@
-# VR_webRTC_Video_conferance-web-app/tree/main
+# VR_webRTC_Video_conferance-web-app
 
 
 ![pic](pic.jpg)
@@ -14,9 +14,17 @@
 ![license](https://img.shields.io/github/license/VehanRajintha/webRTC_VideoConverence_webApp?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# plz note update the constant.js according to your Zegocloud details
+
+````
+export const APP_ID=  your zegocloud app id
+export const SERVER_SECRET=' Your zegocloud secret '
+````
 
 ## Available Scripts
 
